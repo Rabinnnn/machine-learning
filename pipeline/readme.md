@@ -1,0 +1,1 @@
+The objective of this project is to preprocess a dataset containing customer information and purchase history, and prepare it for a machine learning model that will predict customer lifetime value.
